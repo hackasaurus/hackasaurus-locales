@@ -7,6 +7,10 @@ from distutils.dir_util import remove_tree
 
 BASE_URL = "https://localize.mozilla.org/"
 MINIMUM_COMPLETION = 20
+ROOT = os.path.dirname(os.path.abspath(__file__))
+
+def path(*a):
+    return os.path.join(ROOT, *a)
 
 def get_locale_zip(project, locale, base_url=BASE_URL):
     """
@@ -68,7 +72,7 @@ def download_available_locales(project, locale_dir):
         zf.extractall(locale_specific_dir)
 
 if __name__ == '__main__':
-    locale_dir = os.path.abspath('locale')
+    locale_dir = path('.')
     if not os.path.exists(locale_dir):
         os.mkdir(locale_dir)
     download_available_locales('hackasaurus', locale_dir)
