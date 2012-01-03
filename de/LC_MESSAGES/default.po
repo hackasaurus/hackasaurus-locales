@@ -1,0 +1,777 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-11-21 16:04-0800\n"
+"PO-Revision-Date: 2011-12-01 01:38+0200\n"
+"Last-Translator: Thomas <thomas.lendo@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"Generated-By: Babel None\n"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:6
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:19
+msgid "Hackasaurus"
+msgstr "Hackasaurus"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:21
+msgid "Goggles"
+msgstr "Brille"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:22
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:8
+msgid "Resources"
+msgstr "Quellen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:23
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:2
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:10
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:24
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:8
+msgid "About"
+msgstr "Über"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:25
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:2
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:10
+msgid "Blog"
+msgstr "Blog"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:27
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:41
+msgid "Follow and tweet"
+msgstr "Folgen und Twittern"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:42
+msgid ""
+"Have you published your first hack yet? Share it on Twitter with the tag "
+"<b>#hackasaurus</b>!"
+msgstr ""
+"Haben Sie schon Ihren ersten Hack veröffentlicht? Verteilen Sie ihn auf "
+"Twitter mit dem Tag <b>#hackasaurus</b>!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:43
+msgid "Follow @hackasaurus"
+msgstr "Folgen Sie @hackasaurus"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:47
+msgid "Learn more"
+msgstr "Erfahren Sie mehr"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:49
+msgid "Contact us"
+msgstr "Kontaktieren Sie uns"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:50
+msgid "Read our FAQ"
+msgstr "Lesen Sie unsere FAQ"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:51
+msgid "Build with us"
+msgstr "Entwickeln Sie mit uns"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:55
+msgid "Connect with Mozilla"
+msgstr "Treten Sie mit Mozilla in Verbindung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:57
+msgid "Learn about Mozilla's mission"
+msgstr "Erfahren Sie etwas über die Mozilla-Mission"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:58
+msgid "Join Mozilla"
+msgstr "Machen Sie mit bei Mozilla"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:59
+msgid "Like us on Facebook"
+msgstr "Zeigen Sie Ihren Gefallen bei Facebook"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:67
+msgid "Other Languages"
+msgstr "Andere Sprachen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:71
+msgid "Our partners"
+msgstr "Unsere Partner"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:73
+msgid "MacArthur Foundation"
+msgstr "MacArthur-Stiftung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:74
+msgid "The Hive NYC"
+msgstr "The Hive NYC"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:83
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:84
+msgid "Legal Notices"
+msgstr "Impressum"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:85
+msgid "Report Trademark Abuse"
+msgstr "Markenrechtsverletzung melden"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:87
+msgid ""
+"©2011 by individual mozilla.org contributors. Content available under a "
+"<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative "
+"Commons license</a>."
+msgstr ""
+"©2011 von einzelnen Mitwirkenden von mozilla.org. Inhalt verfügbar unter "
+"einer <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative-"
+"Commons-Lizenz</a>."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:7
+msgid "Remix, Make and Share"
+msgstr "Neu mischen, herstellen und weitergeben"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:8
+msgid ""
+"Hackasaurus makes it easy to mash up and change any web page like magic. "
+"You can also create your own webpages to share with your friends, all "
+"within your browser."
+msgstr ""
+"Hackasaurus erleichtert es, eine beliebige Webseite wie Magie neu zu mischen "
+"und zu verändern. Sie können auch Ihre eigenen Webseiten erstellen, um sie "
+"an Ihre Freunde weiterzugeben – alles in Ihrem Browser."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:10
+msgid "See the hack gallery"
+msgstr "Sehen Sie sich die Hack-Galerie an"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:11
+msgid "Watch a video"
+msgstr "Sehen Sie sich ein Video an"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:13
+msgid "Get Started"
+msgstr "Erste Schritte"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:17
+msgid "Attend An Event"
+msgstr "Nehmen Sie an einer Veranstaltung teil"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:18
+msgid "Find a hacking club, workshop, class or design jam in your neighborhood."
+msgstr ""
+"Finden Sie einen Hacking-Club, -Workshop, -Kurs oder eine improvisierte "
+"Design-Veranstaltung in Ihrer Nähe."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:19
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:24
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:29
+msgid "Learn More"
+msgstr "Erfahren Sie mehr"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:22
+msgid "Teach Webmaking"
+msgstr "Lehren Sie die Web-Erstellung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:23
+msgid "Tools for educators, parents and teens. Cheat sheets + lesson plans!"
+msgstr ""
+"Werkzeuge für Ausbilder, Eltern und Jugendliche. Spickzettel + Stundenpläne!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:27
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:2
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:11
+msgid "Build With Us"
+msgstr "Bauen Sie mit uns"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:28
+msgid "Hackasaurus is an open-source project. Help us make it more awesome!"
+msgstr ""
+"Hackasaurus ist ein Open-Source-Projekt. Helfen Sie uns, es noch wunderbarer "
+"zu machen!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:12
+msgid "Building a generation of webmakers"
+msgstr "Erschaffen einer Generation von Web-Konstrukteuren"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:13
+msgid ""
+"Hackasaurus spreads skills, attitudes, and ethics that help youth thrive "
+"in a remixable digital world. \n"
+"      By making it easy for youth to tinker and mess around with the "
+"building blocks that make up the web, Hackasaurus\n"
+"      helps tweens move from digital consumers to active producers, "
+"seeing the web as something they can actively\n"
+"      shape, remix and make better."
+msgstr ""
+"Hackasaurus verbreitet Fähigkeiten, Einstellungen und Ethik, die der Jugend "
+"helfen, in einer wechselhaften digitalen Welt Erfolg zu haben. \n"
+" Indem es der Jugend einfach gemacht wird, mit den Bauklötzen, aus denen das "
+"Internet besteht, zu basteln und herumzuspielen, hilft Hackasaurus \n"
+" Jugendlichen von digitalen Konsumenten zu aktiven Produzenten zu werden, "
+"damit sie das Internet als etwas sehen, das sie aktiv \n"
+" formen, neu gestalten und verbessern können."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:17
+msgid "Through a set of easy to use tools"
+msgstr "Mit einer einfach nutzbaren Menge an Werkzeugen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:18
+msgid ""
+"Hackasaurus tools make it easy for kids to remix, create and share on the"
+" web. The X-Ray Goggles allow \n"
+"      learners to see what the web is made of, remix and change their "
+"favorite web pages, and share their creations\n"
+"      with friends."
+msgstr ""
+"erleichtern die Hackasaurus-Werkzeuge es Kindern, das Dinge im Internet neu "
+"zu gestalten, zu erschaffen und weiterzugeben. Mit der Röntgenbrille können \n"
+" Lernende sehen, woraus das Internet besteht, ihre Lieblings-Webseiten neu "
+"gestalten und ändern und ihre Kreationen\n"
+" mit Freunden teilen."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:21
+msgid "&hellip;And at Hack Jam events around the world"
+msgstr "… Und bei Hack-Jam-Veranstaltungen auf der ganzen Welt"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:22
+msgid ""
+"Hack jams make hacking and digital literacy accessible, social and fun. "
+"In partnership with libraries, \n"
+"      learning centers and youth media centers, learners take part in a "
+"flexible DIY curriculum of hands-on projects and \n"
+"      making. Building off pilot events run by the Learning Network in "
+"New York and Chicago, the upcoming Hackasaurus Event Kit\n"
+"      will make it easy for anyone, anywhere to organize their own jams."
+msgstr ""
+"Hack-Jams machen Hacken und digitales Verständnis zugänglich, sozial und "
+"lustig. In Partnerschaften mit Bibliotheken, \n"
+" Lernzentren und Jugendmedienzentren, nehmen Lernende an flexiblen, selbst "
+"zusammenstellbaren Kursplänen mit Projekten zum Selbermachen und \n"
+" Entwicklung. Basierend auf Pilotveranstaltungen vom Learning Network in New "
+"York und Chicago, wird es die kommende Hackasaurus-Veranstaltungs-"
+"Ausrüstung\n"
+" einfach ermöglichen, dass jeder überall seine eigenen Jams organisieren "
+"kann."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:32
+msgid "This video requires a browser with support for open video."
+msgstr "Dieses Video erfordert einen Browser mit Open-Video-Unterstützung."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:40
+msgid "Our team at a glance:"
+msgstr "Unser Team auf einen Blick:"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:44
+msgid ""
+"<strong>Atul Varma</strong> is the Technical Lead. He has worked on <a "
+"href=\"http://humanized.com/enso/\">Humanized Enso</a>, \n"
+"            <a href=\"http://collusion.toolness.org/\">Collusion</a> and "
+"<a href=\"https://mozillalabs.com/ubiquity/\">Ubiquity</a>."
+msgstr ""
+"<strong>Atul Varma</strong> ist der technische Leiter. Er hat an <a "
+"href=\"http://humanized.com/enso/\">Humanized Enso</a>, \n"
+" <a href=\"http://collusion.toolness.org/\">Collusion</a> und <a "
+"href=\"https://mozillalabs.com/ubiquity/\">Ubuquity</a> gearbeitet."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:51
+msgid ""
+"<strong>Jess Klein</strong> is the Design and Learning Lead. She has "
+"worked at <a href=\"http://explorecreateshare.org/\">Hive NYC</a>, \n"
+"            <a href=\"http://sesameworkshop.org\">Sesame Workshop</a> and"
+" the <a href=\"http://www.instituteofplay.org/\">Institute of Play</a>."
+msgstr ""
+"<strong>Jess Klein</strong> ist Leiter für Design und Lernen. Sie hat an <a "
+"href=\"http://explorecreateshare.org/\">Hive NYC</a>, \n"
+" <a href=\"http://sesameworkshop.org\">Sesame Workshop</a> und dem <a "
+"href=\"http://www.instituteofplay.org/\">Institute of Play</a>."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:55
+msgid ""
+"We have many community members who are working to co-develop the project."
+" <a href=\"https://wiki.mozilla.org/Hackasaurus/Credits\">Learn more "
+"about them</a>, and how you can\n"
+"        get involved."
+msgstr ""
+"Wir haben viele Mitglieder der Gemeinschaft, die das Projekt mit entwickeln. "
+"<a href=\"https://wiki.mozilla.org/Hackasaurus/Credits\">Erfahren Sie mehr "
+"über sie</a> und wie Sie\n"
+" mitmachen können."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:60
+msgid "Did you know?"
+msgstr "Wussten Sie schon?"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:61
+#, python-format
+msgid ""
+"Hackasaurus is being designed as an open source and open educational "
+"resource project. That means that all of our\n"
+"        code and curriculum for the project is available for you to <a "
+"href=\"%(LOCALE_ROOT)scontribute/\">fork</a> and work with&mdash;and "
+"improve!"
+msgstr ""
+"Hackasaurus wird als quelloffenes Projekt und als offene Bildungsressource "
+"entwickelt. Das heißt, dass unser gesamter\n"
+" Quelltext und die Kurspläne für das Projekt Ihnen zur Verfügung stehen, so "
+"dass Sie es <a href=\"%(LOCALE_ROOT)scontribute/\">aufspalten</a> und damit "
+"arbeiten – und es verbessern – können!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:11
+msgid "News, notes and ramblings from the Hackasaurus project team."
+msgstr "Neuigkeiten, Hinweise und Abschweifungen von Hackasaurus-Projekt-Team."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:20
+msgid "Recent Posts"
+msgstr "Neue Beiträge"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:29
+msgid "Posted by <span class=\"author\"></span>"
+msgstr "Geschrieben von <span class=\"author\"></span>"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:12
+#, python-format
+msgid ""
+"Hackasaurus is an open-source project. If you're a coder, just <a "
+"href=\"https://github.com/hackasaurus/webxray\">fork the goggles</a> on "
+"Github, <a href=\"%(BUG_LIST_URL)s\">find a bug</a>, and contribute away!"
+msgstr ""
+"Hackasaurus ist ein Open-Source-Projekt. Wenn Sie ein Programmierer sind, <a "
+"href=\"https://github.com/hackasaurus/webxray\">spalten Sie einfach die "
+"Brille ab</a> auf Github, <a href=\"%(BUG_LIST_URL)s\">finden Sie einen "
+"Fehler</a> und machen Sie einfach mit!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:17
+msgid "Join the Google Group"
+msgstr "Treten Sie der Google-Gruppe bei"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:18
+msgid ""
+"Subscribe to our <a "
+"href=\"http://groups.google.com/group/hackasaurus\">google group</a> if "
+"you have any questions or want to propose an idea."
+msgstr ""
+"Abonnieren Sie unsere <a href=\"http://groups.google.com/group/hackasaurus"
+"\">Google-Gruppe</a>, wenn Sie Fragen haben oder eine Idee vorschlagen "
+"möchten."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:21
+msgid "Chat with us"
+msgstr "Chatten Sie mit uns"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:22
+msgid ""
+"Chill out with the development team on <a "
+"href=\"https://wiki.mozilla.org/IRC#Getting_Started\">IRC</a> at "
+"<b>#hackasaurus</b> on irc.mozilla.org. We love visitors!"
+msgstr ""
+"Hängen Sie mit dem Entwicklerteam rum im <a "
+"href=\"https://wiki.mozilla.org/IRC#Getting_Started\">IRC</a> in "
+"<b>#hackasaurus</b> auf irc.mozilla.org. Wir lieben Besucher!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:25
+msgid "Localize content"
+msgstr "Übersetzen Sie Inhalte"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:26
+msgid ""
+"We'd love to have your help <a "
+"href=\"https://wiki.mozilla.org/Hackasaurus/Localization\">translating</a>"
+" the tools and curriculum into different languages."
+msgstr ""
+"Wir hätten gerne Ihre Hilfe bei der <a "
+"href=\"https://wiki.mozilla.org/Hackasaurus/Localization\">Übersetzung</a> der "
+"Werkzeuge und Kurspläne in verschiedene Sprachen."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:9
+msgid "Tools for teaching webmaking"
+msgstr "Werkzeuge für das Lehren von Web-Entwicklung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:13
+msgid "The Hacktivity Kit"
+msgstr "Die Hacktivitäts-Ausrüstung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:14
+msgid ""
+"Step by step instructions for running your own hack jam. This includes "
+"printables,\n"
+"      sample lesson plans, assessment rubrics and cheat sheets. You'll "
+"learn how to:"
+msgstr ""
+"Schritt-für-Schritt-Anleitungen für das Durchführen Ihres eigenen Hack-Jams. "
+"Dazu gehören Ausdrucke,\n"
+" Beispielpläne für Stunden, Bewertungsrubriken und Spickzettel. Sie werden "
+"lernen, wie man:"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:17
+msgid "prepare for a hack jam"
+msgstr "ein Hack-Jam vorbereitet"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:18
+msgid "choose a theme and set learning goals"
+msgstr "ein Thema auswählt und Lernziele setzt"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:19
+msgid "design a lesson plan"
+msgstr "einen Stundenplan gestaltet"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:20
+msgid "a 101 guide to HTML"
+msgstr "ein Anfängerleitfaden für HTML"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:21
+msgid "set up for success"
+msgstr "sich für Erfolg einrichtet"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:22
+msgid "work in teams and co-build"
+msgstr "in Teams arbeitet und zusammen entwickelt"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:24
+msgid "...and more!"
+msgstr "… und mehr!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:25
+msgid "Download"
+msgstr "Herunterladen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:30
+msgid "Hackasaurus Slides"
+msgstr "Hackasaurus-Folien"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:31
+msgid "An HTML5 remixable slide show. You will learn:"
+msgstr "Eine neu gestaltbare HTML5-Präsentation. Sie werden lernen:"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:33
+msgid "what we mean when we say hack"
+msgstr "was wir meinen, wenn wir „hacken“ sagen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:34
+msgid "what makes the web unique"
+msgstr "was das Internet einzigartig macht"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:35
+msgid "how to install the X-Ray Goggles"
+msgstr "wie Sie die Röntgenbrille installieren"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:36
+msgid "how to make your first hack"
+msgstr "wie Sie Ihren ersten Hack machen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:38
+msgid "Play Slide Show"
+msgstr "Präsentation abspielen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:43
+msgid "I.T. Checklist"
+msgstr "IT-Prüfliste"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:45
+msgid "stable internet connection"
+msgstr "Stabile Internetverbindung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:46
+msgid "laptops or PC's for participants"
+msgstr "Laptops oder Desktop-Rechner für Teilnehmer"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:47
+msgid "most up-to-date version of Firefox, Opera, Chrome or Safari browsers"
+msgstr "neueste Versionen von Browsern wie Firefox, Opera, Chrome oder Safari"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:48
+msgid "X-Ray Goggles bookmarklets installed"
+msgstr "installierte Bookmarklets für Röntgenbrille"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:49
+msgid "projector set up for participation"
+msgstr "Projektor zum Mitmachen eingerichtet"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:51
+msgid "For a more detailed checklist, download the PDF below."
+msgstr ""
+"Eine ausführlichere Prüfliste finden Sie im folgenden herunterladbaren PDF."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:52
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:70
+msgid "Download PDF"
+msgstr "PDF herunterladen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:57
+msgid "X-Ray Goggles Cheat Sheet"
+msgstr "Spickzettel für Röntgenbrille"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:58
+msgid ""
+"A quick reference printable for the X-Ray Goggles tool, highlighted hot "
+"keys:"
+msgstr ""
+"Eine kurze, ausdruckbare Übersicht für das Werkzeug Röntgenbrille, "
+"Tastaturkürzel sind hervorgehoben:"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:60
+msgid "remix an element"
+msgstr "ein Element neu gestalten"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:61
+msgid "inspect an element"
+msgstr "ein Element inspizieren"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:62
+msgid "publish your hack"
+msgstr "Ihren Hack veröffentlichen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:63
+msgid "ESC"
+msgstr "ESC"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:63
+msgid "deactivate the goggles"
+msgstr "die Brille deaktivieren"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:64
+msgid "Undo"
+msgstr "Rückgängig"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:65
+msgid "Redo"
+msgstr "Wiederherstellen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:66
+msgid "Ascend to parent element"
+msgstr "Zum übergeordneten Element aufsteigen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:67
+msgid "Descend from parent element"
+msgstr "Vom übergeordneten Element absteigen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:68
+msgid "Delete"
+msgstr "Löschen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:68
+msgid "Backspace"
+msgstr "Rücktaste"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:68
+msgid "delete an element"
+msgstr "ein Element löschen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:11
+msgid "Design jams, hackfests and workshops"
+msgstr "Design-Jams, Hackfests und Workshops"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:15
+msgid ""
+"Hackasaurus events are taking place all over the world. Attend an event "
+"in your area!"
+msgstr ""
+"Hackasaurus-Veranstaltungen finden auf der ganzen Welt statt. Nehmen Sie an "
+"einer in Ihrer Umgebung teil!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:16
+#, python-format
+msgid ""
+"Don't see anything happening in your neighborhood? Consider planning your"
+" own event. Check out the <a "
+"href=\"%(LOCALE_ROOT)seducators/\">Hacktivity Kit</a> for ideas on how to"
+" get started."
+msgstr ""
+"Sehen Sie nichts in Ihrer direkten Umgebung? Vielleicht planen Sie ja Ihre "
+"eigene Veranstaltung. Sehen Sie sich die <a href=\"%"
+"(LOCALE_ROOT)seducators/\">Hacktivitäts-Ausrüstung</a> an, um Ideen für die "
+"ersten Schritte zu erhalten."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:19
+msgid "Upcoming or Recent Event"
+msgstr "Bevorstehende oder kürzliche Veranstaltung"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:20
+msgid "Location"
+msgstr "Ort"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:21
+msgid "Date"
+msgstr "Datum"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:26
+msgid "All events"
+msgstr "Alle Veranstaltungen"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:12
+msgid "In order to use the goggles, you need to have JavaScript enabled."
+msgstr "Um die Brille verwenden zu können, müssen Sie JavaScript aktivieren."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:13
+msgid "Please enable it or use a browser that supports it."
+msgstr ""
+"Bitte aktivieren Sie es oder verwenden Sie einen Browser, der es "
+"unterstützt."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:17
+msgid "Sorry, but the goggles don't yet work on Microsoft Internet Explorer."
+msgstr ""
+"Es tut uns Leid, aber die Brille funktioniert noch nicht im Windows Internet "
+"Explorer."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:18
+msgid ""
+"Until they do, please use the latest version of <a "
+"href=\"http://mozilla.org/firefox\">Firefox</a>, Opera, Chrome, or "
+"Safari."
+msgstr ""
+"Bis dahin verwenden Sie bitte die neueste Version von <a "
+"href=\"http://mozilla.org/firefox\">Firefox</a>, Opera, Chrome oder Safari."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:13
+msgid "X-Ray Goggles"
+msgstr "Röntgenbrille"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:14
+msgid "Remix, make and share webpages instantly."
+msgstr "Gestalten Sie Webseiten sofort neu, erstellen und verteilen Sie sie."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:18
+msgid "Make your first hack in three easy steps!"
+msgstr "Machen Sie Ihren ersten Hack in drei einfachen Schritten!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:20
+msgid "Copy this URL to your clipboard:"
+msgstr "Kopieren Sie diese URL in Ihre Zwischenablage:"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:24
+#, python-format
+msgid ""
+"Activate the <a id=\"bookmarklet\" "
+"href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray Goggles</a>."
+msgstr ""
+"Aktivieren Sie die <a id=\"bookmarklet\" href=\"%"
+"(GOGGLES_BOOKMARKLET_URL)s\">Röntgenbrille</a>."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:25
+msgid ""
+"Move your mouse over the image on the right to see what it's made of, and"
+" tap <kbd><span>R</span></kbd> to make it point to the URL from your "
+"clipboard!"
+msgstr ""
+"Bewegen Sie Ihre Maus über das Bild rechts, um zu sehen, woraus es besteht, "
+"und drücken Sie <kbd><span>R</span></kbd>, damit es auf die URL in Ihrer "
+"Zwischenablage zeigt!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:29
+msgid "&hellip; And then, the world!"
+msgstr "… Und als nächstes die Welt!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:30
+msgid ""
+"<a href=\"install/\">Install</a> the goggles into your bookmarks bar and "
+"use them to remix <em>any</em> web page!"
+msgstr ""
+"<a href=\"install/\">Installieren</a> Sie die Brille in Ihre Lesezeichen-"
+"Symbolleiste und verwenden Sie sie, um <em>jede</em> Webseite neu zu "
+"gestalten!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:33
+msgid "Share with friends!"
+msgstr "Mit Freunden teilen!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:34
+msgid ""
+"Tap <kbd><span>P</span></kbd> to publish your hacks and share your "
+"creations with your friends."
+msgstr ""
+"Drücken Sie <kbd><span>P</span></kbd>, um Ihre Hacks zu veröffentlichen und "
+"Ihre Kreationen mit Ihren Freunden zu teilen."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:37
+msgid "Become a ninja!"
+msgstr "Werden Sie ein Ninja!"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:38
+msgid ""
+"Tap <kbd><span>H</span></kbd> to learn about more awesome powers like "
+"undo/redo and computed style editing."
+msgstr ""
+"Drücken Sie <kbd><span>H</span></kbd>, um mehr über die wunderbaren "
+"Möglichkeiten wie Rückgängig/Wiederherstellen und berechnete Bearbeitung von "
+"Stilen zu erfahren."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:46
+msgid "Achievement Unlocked"
+msgstr "Leistung freigeschaltet"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:47
+msgid "Image Source Hacker"
+msgstr "Hacker des Grafikquelltextes"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:55
+msgid "Click on an attribute’s value to edit it."
+msgstr "Klicken Sie auf den Wert eines Attributs, um es zu bearbeiten."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:58
+msgid "Tap <kbd><span>R</span></kbd> to change the source code of an element."
+msgstr ""
+"Drücken Sie <kbd><span>R</span></kbd>, um den Quelltext eines Elements zu "
+"ändern."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:14
+msgid "Installing The X-Ray Goggles"
+msgstr "Installation der Röntgenbrille"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:17
+msgid ""
+"The X-Ray Goggles are a <em>bookmarklet</em>&mdash;a special kind of tool"
+" that can augment any web page."
+msgstr ""
+"Die Röntgenbrille ist ein <em>Bookmarklet</em> – ein besonderes Werkzeug, "
+"das jede Webseite verbessern kann."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:18
+msgid ""
+"Here's how to install the goggles bookmarklet so you can inspect and "
+"remix anything you see on the web."
+msgstr ""
+"So installieren Sie das Röntgenbrillen-Bookmarklet, damit Sie alles, was Sie "
+"im Internet sehen, inspizieren und neu gestalten können."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:21
+msgid "Enable your browser's bookmarks toolbar by watching this video:"
+msgstr ""
+"Aktivieren Sie die Lesezeichen-Symbolleiste Ihres Browsers, indem Sie dieses "
+"Video ansehen:"
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:25
+#, python-format
+msgid ""
+"Drag the <a id=\"bookmarklet\" href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray"
+" Goggles</a> up to your bookmarks toolbar."
+msgstr ""
+"Ziehen Sie die <a id=\"bookmarklet\" href=\"%"
+"(GOGGLES_BOOKMARKLET_URL)s\">Röntgrenbrille</a> in Ihre Lesezeichen-"
+"Symbolleiste."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:28
+msgid ""
+"Whenever you want to remix any web page you're visiting, just click on "
+"the X-Ray Goggles button in your bookmarks toolbar."
+msgstr ""
+"Immer, wenn Sie eine Webseite, die Sie besuchen, neu gestalten möchten, "
+"klicken Sie einfach auf die Röntgenbrillen-Schaltfläche in Ihrer "
+"Lesezeichen-Symbolleiste."
+
+#: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:31
+msgid "That's all there is to it. Happy webmaking!"
+msgstr "Das war’s schon. Fröhliches Web-Erstellen!"

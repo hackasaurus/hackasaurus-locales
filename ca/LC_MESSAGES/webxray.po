@@ -1,0 +1,326 @@
+# Translations template for PROJECT.
+# Copyright (C) 2011 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2011-11-13 14:22+0100\n"
+"PO-Revision-Date: 2011-12-03 10:45+0200\n"
+"Last-Translator: Toni <toniher@softcatala.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"Generated-By: Babel None\n"
+
+#. style-info:tap-space-html
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Tap <div class=\"webxray-kbd\">space bar</div> to edit this style."
+msgstr ""
+"Prem la <div class=\"webxray-kbd\">barra espaiadora</div> per a editar-ne "
+"l'estil."
+
+#. style-info:style-change
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "style change"
+msgstr "canvi d'estil"
+
+#. mix-master:too-big-to-change
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "That element is too big to remix. Try selecting a smaller one!"
+msgstr ""
+"L'element és massa gran per a remenar-lo. Prova de seleccionar un més petit!"
+
+#. mix-master:too-big-to-remix-html
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid ""
+"<div>That <code>&lt;${tagName}&gt;</code> element is too big to remix. "
+"Try selecting a smaller one!</div>"
+msgstr ""
+"<div>L'element <code>&lt;${tagName}&gt;</code> és massa gran per a remenar-"
+"lo. Prova de seccionar un més petit!</div>"
+
+#. mix-master:deletion
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "deletion"
+msgstr "eliminació"
+
+#. mix-master:replacement
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "replacement"
+msgstr "reemplaçament"
+
+#. mix-master-dialog:rendering-header
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "What You See"
+msgstr "Què veus"
+
+#. mix-master-dialog:html-header
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "HTML Source Code"
+msgstr "Codi font HTML"
+
+#. mix-master-dialog:title
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Remixer"
+msgstr "Remenador"
+
+#. mix-master-dialog:advanced-source-tab
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Advanced"
+msgstr "Avançat"
+
+#. mix-master-dialog:skeleton-header
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "What Your Browser Sees"
+msgstr "Què veu el navegador"
+
+#. mix-master-dialog:basic-source-tab
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Basic"
+msgstr "Bàsic"
+
+#. uproot-dialog:view-html
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "View HTML Source"
+msgstr "Mostra el codi HTML"
+
+#. uproot-dialog:html-source
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Here's the HTML source code of your remix."
+msgstr "Aquest és el codi HTML del remenat."
+
+#. uproot-dialog:publishing
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Publishing..."
+msgstr "S'està publicant..."
+
+#. uproot-dialog:success
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Here is the URL for your remix that anyone can view."
+msgstr "Aquest és l'URL del remenat, que pot veure tot el món."
+
+#. uproot-dialog:to-internet
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Publish To Internet"
+msgstr "Publica a Internet"
+
+#. uproot-dialog:header
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Publish Your Remix"
+msgstr "Publica el remenat"
+
+#. uproot-dialog:intro
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "There are two ways you can publish your remix and share it with others."
+msgstr "Hi ha dues formes de publicar el remenat i compartir-lo amb els demés."
+
+#. uproot-dialog:error
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Sorry, an error occurred. Please try again later."
+msgstr "S'ha produït un error. Torna-ho a provar més endavant."
+
+#. uproot-dialog:view-html-desc
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Grab the HTML source of your remix and publish it yourself."
+msgstr "Pren el codi HTML del remenat i publica'l tu mateix."
+
+#. uproot-dialog:to-internet-desc
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Instantly publish your remix to a URL that anyone can view."
+msgstr "Publica al moment el remenat a un URL que tothom pot veure."
+
+#. command-manager:cannot-undo-html
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "<span>Nothing left to undo!</span>"
+msgstr "<span>No queda res més per fer!</span>"
+
+#. command-manager:redid
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Redid"
+msgstr "Tornat a fer"
+
+#. command-manager:executed
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Executed"
+msgstr "Executat"
+
+#. command-manager:cannot-redo-html
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "<span>Nothing left to redo!</span>"
+msgstr "<span>No queda res més per tornar a fer!</span>"
+
+#. command-manager:undid
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Undid"
+msgstr "Desfet"
+
+#. key-names:RIGHT
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "→"
+msgstr "→"
+
+#. key-names:UP
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "↑"
+msgstr "↑"
+
+#. key-names:DOWN
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "↓"
+msgstr "↓"
+
+#. key-names:DELETE-MacIntel
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "delete"
+msgstr "elimina"
+
+#. key-names:ESC
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "esc"
+msgstr "esc"
+
+#. key-names:LEFT
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "←"
+msgstr "←"
+
+#. key-names:DELETE
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "backspace"
+msgstr "retrocés"
+
+#. command-descriptions:quit
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Deactivate goggles"
+msgstr "Desactiva les ulleres"
+
+#. command-descriptions:remix
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Replace/remix selected element"
+msgstr "Reemplaça/remena l'element seleccionat"
+
+#. command-descriptions:help
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "This help reference"
+msgstr "Aquesta referència d'ajuda"
+
+#. command-descriptions:css-quasimode
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "View/edit computed style of selected element"
+msgstr "Mostra/edita l'estil calculat de l'element seleccionat"
+
+#. command-descriptions:undo
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Undo"
+msgstr "Desfés"
+
+#. command-descriptions:dom-descend
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Descend to child element"
+msgstr "Vés a l'element fill"
+
+#. command-descriptions:remove
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Remove selected element"
+msgstr "Elimina l'element seleccionat"
+
+#. command-descriptions:uproot
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Publish your remix"
+msgstr "Publica el remenat"
+
+#. command-descriptions:dom-ascend
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Ascend to parent element"
+msgstr "Vés a l'element pare"
+
+#. command-descriptions:redo
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Redo"
+msgstr "Refés"
+
+#. dialog-common:close
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Close"
+msgstr "Tanca"
+
+#. dialog-common:nevermind
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Nevermind"
+msgstr "No hi fa res"
+
+#. dialog-common:ok
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "Commit changes"
+msgstr "Envia els canvis"
+
+#. dialog-common:product-name
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "X-Ray Goggles"
+msgstr "Ulleres de raigs X"
+
+#. input:unload-blocked
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "You have made unsaved changes to this page."
+msgstr "Has fet canvis a la pàgina que no s'han desat."
+
+#. input:link-click-blocked
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid ""
+"If you would like to follow that link, please deactivate the goggles "
+"first by pressing ESC."
+msgstr "Si vols seguir l'enllaç, desactiva primer les ulleres prement ESC."
+
+#. hud-overlay:and
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "and"
+msgstr "i"
+
+#. hud-overlay:pointing-at
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "pointing at"
+msgstr "s'apunta a"
+
+#. hud-overlay:focused-intro
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "You are on a"
+msgstr "Et trobes en un"
+
+#. hud-overlay:id
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "id"
+msgstr "id"
+
+#. hud-overlay:ancestor-intro
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "It is inside a"
+msgstr "És dins de un"
+
+#. hud-overlay:element
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "element"
+msgstr "element"
+
+#. hud-overlay:default-html
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "<span>Web X-Ray Goggles activated! Press ESC to deactivate.</span>"
+msgstr ""
+"<span>S'han activat les ulleres de raigs X! Prem ESC per a desactivar-"
+"les.</span>"
+
+#. hud-overlay:with
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "with"
+msgstr "amb"
+
+#. hud-overlay:class
+#: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
+msgid "class"
+msgstr "classe"
