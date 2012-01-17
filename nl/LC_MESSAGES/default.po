@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-10 16:35+0100\n"
-"PO-Revision-Date: 2011-12-28 22:44+0200\n"
-"Last-Translator: Ton <tonnes.mb@gmail.com>\n"
+"PO-Revision-Date: 2012-01-04 18:18+0200\n"
+"Last-Translator: Tim Maks <thunderbird-nl@planet.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -291,14 +291,17 @@ msgid ""
 "about them</a>, and how you can\n"
 "        get involved."
 msgstr ""
+"We hebben veel gemeenschapsleden die meewerken aan het projectt. <a "
+"href=\"https://wiki.mozilla.org/Hackasaurus/Credits\">Lees meer over ze</a> en "
+"u betrokken\n"
+"        kan raken."
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:60
-#, fuzzy
 msgid "Did you know?"
 msgstr "Wist u dat…?"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:61
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "Hackasaurus is being designed as an open source and open educational "
 "resource project. That means that all of our\n"

@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-13 14:22+0100\n"
-"PO-Revision-Date: 2011-12-23 14:44+0200\n"
-"Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
+"PO-Revision-Date: 2012-01-14 08:05+0200\n"
+"Last-Translator: OHZEKI <saneyuki.s.snyk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -63,11 +63,11 @@ msgstr "プレビュー"
 msgid "HTML Source Code"
 msgstr "HTML ソースコード"
 
+# 「リミキサー」ではわかりにくいので。
 #. mix-master-dialog:title
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Remixer"
-msgstr "リミキサー"
+msgstr "編集モード"
 
 #. mix-master-dialog:advanced-source-tab
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -91,72 +91,62 @@ msgstr "HTML ソースを見る"
 
 #. uproot-dialog:html-source
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Here's the HTML source code of your remix."
-msgstr "あなたのリミックスした HTML ソースコードはこちらになります。"
+msgstr "あなたのリミックスの HTML ソースコードはこちらです。"
 
 #. uproot-dialog:publishing
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Publishing..."
 msgstr "出力中..."
 
 #. uproot-dialog:success
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Here is the URL for your remix that anyone can view."
-msgstr "あなたのリミックスを見るための URL はこちらになります。"
+msgstr "あなたのリミックスを見るための URL はこちらです。"
 
 #. uproot-dialog:to-internet
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Publish To Internet"
-msgstr "インターネット上に出力する"
+msgstr "インターネット上に公開する"
 
 #. uproot-dialog:header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Publish Your Remix"
 msgstr "リミックスを出力する"
 
 #. uproot-dialog:intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "There are two ways you can publish your remix and share it with others."
-msgstr "あなたのリミックスを誰かに見せる方法は2つあります。"
+msgstr "あなたのリミックスを見せて共有する方法は 2 通りあります。"
 
 #. uproot-dialog:error
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Sorry, an error occurred. Please try again later."
 msgstr "ごめんなさい、エラーが発生しました。後でもう一度試してください。"
 
 #. uproot-dialog:view-html-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Grab the HTML source of your remix and publish it yourself."
-msgstr "HTML ソースを取得し、あなた自身の手でリミックスを出力します。"
+msgstr "リミックスの HTML ソースを取得します。"
 
 #. uproot-dialog:to-internet-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Instantly publish your remix to a URL that anyone can view."
-msgstr "誰もが簡単に見れる URL として、あなたのリミックスを出力します。"
+msgstr "誰でも簡単に見れるように、リミックスを URL として出力します。"
 
 #. command-manager:cannot-undo-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Nothing left to undo!</span>"
 msgstr "<span>これ以上、元に戻せません！</span>"
 
+# 語順が先頭になることが予想されるため
 #. command-manager:redid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Redid"
-msgstr "やり直しました。"
+msgstr "やり直しました:"
 
 #. command-manager:executed
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Executed"
 msgstr "実行する"
 
@@ -165,11 +155,11 @@ msgstr "実行する"
 msgid "<span>Nothing left to redo!</span>"
 msgstr "<span>これ以上、やり直しはできません！</span>"
 
+# 語順が先頭になることが予想されるため
 #. command-manager:undid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Undid"
-msgstr "元に戻しました。"
+msgstr "元に戻しました:"
 
 #. key-names:RIGHT
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -214,7 +204,7 @@ msgstr "ゴーグルを外す"
 #. command-descriptions:remix
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Replace/remix selected element"
-msgstr "選択した要素の置き換え/リミックス"
+msgstr "選択した要素の置き換え/編集"
 
 #. command-descriptions:help
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -243,9 +233,8 @@ msgstr "選択した要素を削除する"
 
 #. command-descriptions:uproot
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Publish your remix"
-msgstr "あなたのリミックスを出力する"
+msgstr "リミックスを出力する"
 
 #. command-descriptions:dom-ascend
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -262,11 +251,11 @@ msgstr "やり直し"
 msgid "Close"
 msgstr "閉じる"
 
+# リミキサー画面右上の「閉じる」ボタンのラベル
 #. dialog-common:nevermind
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "Nevermind"
-msgstr "注意"
+msgstr "閉じる"
 
 #. dialog-common:ok
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -292,52 +281,49 @@ msgstr "リンク先へ移動したいときは、ESC キーを押してゴー�
 
 #. hud-overlay:and
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "and"
 msgstr "と"
 
 # 画像の URL を示す
 #. hud-overlay:pointing-at
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "pointing at"
 msgstr "URL:"
 
 # 英語の語順が変わらない可能性があるため、この形式を使用
 #. hud-overlay:focused-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "You are on a"
-msgstr "選択中："
+msgstr "選択中:"
 
 #. hud-overlay:id
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "id"
-msgstr "id"
+msgstr "id:"
 
+# 祖先要素をたどっていったときのラベル
 #. hud-overlay:ancestor-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "It is inside a"
-msgstr ""
+msgstr "選択中の祖先要素:"
 
 #. hud-overlay:element
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "element"
-msgstr ""
+msgstr "要素"
 
 #. hud-overlay:default-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Web X-Ray Goggles activated! Press ESC to deactivate.</span>"
 msgstr "<span>Web X-Ray ゴーグルを装着しました！ 外すには ESC キーを押してください。</span>"
 
+# 「かつ」なども考えたが、表示上、カンマで区切るのが妥当であると判断
 #. hud-overlay:with
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "with"
-msgstr ""
+msgstr ", "
 
 #. hud-overlay:class
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
-#, fuzzy
 msgid "class"
-msgstr "class"
+msgstr "class:"
