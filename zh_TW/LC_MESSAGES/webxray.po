@@ -8,162 +8,154 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-13 14:22+0100\n"
-"PO-Revision-Date: 2012-03-12 08:48+0200\n"
-"Last-Translator: Ton <tonnes.mb@gmail.com>\n"
+"PO-Revision-Date: 2012-03-11 19:16+0200\n"
+"Last-Translator: darkx <xatierlike@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: nl\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.1.6\n"
 "Generated-By: Babel None\n"
 
 #. style-info:tap-space-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Tap <div class=\"webxray-kbd\">space bar</div> to edit this style."
-msgstr ""
-"Tik op <div class=\"webxray-kbd\">spatiebalk</div> om deze stijl te bewerken."
+msgstr "按一下 <div class=\"webxray-kbd\">空白鍵</div> 以編輯此樣式。"
 
 #. style-info:style-change
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "style change"
-msgstr "stijlwijziging"
+msgstr "變更風格"
 
 #. mix-master:too-big-to-change
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "That element is too big to remix. Try selecting a smaller one!"
-msgstr ""
-"Dat element is te groot om te combineren. Probeer een kleinere te "
-"selecteren!"
+msgstr "這個元素太大了不能用來混搭。試著選一個比較小的！"
 
 #. mix-master:too-big-to-remix-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid ""
 "<div>That <code>&lt;${tagName}&gt;</code> element is too big to remix. "
 "Try selecting a smaller one!</div>"
-msgstr ""
-"<div>Dat <code>&lt;${tagName}&gt;</code>-element is te groot om te "
-"combineren. Probeer een kleinere te selecteren!</div>"
+msgstr "<div>那個 <code>&lt;${tagName}&gt;</code>元素太大了不能用來混搭。試著選一個比較小的！ </div>"
 
 #. mix-master:deletion
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "deletion"
-msgstr "verwijdering"
+msgstr "刪除"
 
 #. mix-master:replacement
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "replacement"
-msgstr "vervanging"
+msgstr "更換"
 
 #. mix-master-dialog:rendering-header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "What You See"
-msgstr "Wat u ziet"
+msgstr "你所看到的"
 
 #. mix-master-dialog:html-header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "HTML Source Code"
-msgstr "HTML-broncode"
+msgstr "HTML 原始碼"
 
 #. mix-master-dialog:title
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Remixer"
-msgstr "Remixer"
+msgstr "混搭器"
 
 #. mix-master-dialog:advanced-source-tab
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Advanced"
-msgstr "Geavanceerd"
+msgstr "進階"
 
 #. mix-master-dialog:skeleton-header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "What Your Browser Sees"
-msgstr "Wat uw browser ziet"
+msgstr "你瀏覽器所看到的"
 
 #. mix-master-dialog:basic-source-tab
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Basic"
-msgstr "Basis"
+msgstr "基礎"
 
 #. uproot-dialog:view-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "View HTML Source"
-msgstr "HTML-bron bekijken"
+msgstr "檢視 HTML 原始碼"
 
 #. uproot-dialog:html-source
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Here's the HTML source code of your remix."
-msgstr "Dit is de HTML-broncode van uw combinatie."
+msgstr "這是你混搭作品的 HTML 原始碼。"
 
 #. uproot-dialog:publishing
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publishing..."
-msgstr "Publiceren…"
+msgstr "出版中..."
 
 #. uproot-dialog:success
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Here is the URL for your remix that anyone can view."
-msgstr "Dit is de URL van uw combinatie die iedereen kan bekijken."
+msgstr "這個 URL 能讓你的混搭被任何人所見"
 
 #. uproot-dialog:to-internet
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publish To Internet"
-msgstr "Publiceren naar internet"
+msgstr "發佈到網際網路"
 
-# Altijd infinitief, tenzij aan gebruiker gericht, En Geen Hoofdletters
 #. uproot-dialog:header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publish Your Remix"
-msgstr "Uw combinatie publiceren"
+msgstr "發表你的混搭"
 
 #. uproot-dialog:intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "There are two ways you can publish your remix and share it with others."
-msgstr ""
-"Er zijn twee manieren om uw combinatie te publiceren en met anderen te "
-"delen."
+msgstr "有兩種方法可以讓你發表你的混搭並和朋友分享。"
 
 #. uproot-dialog:error
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Sorry, an error occurred. Please try again later."
-msgstr "Sorry, er is een fout opgetreden. Probeer het later nog eens."
+msgstr "抱歉，有錯誤發生了。請稍候並再試一次。"
 
 #. uproot-dialog:view-html-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Grab the HTML source of your remix and publish it yourself."
-msgstr "Grijp de HTML-bron van uw combinatie en publiceer hem zelf."
+msgstr "抓你混搭的 HTML 原始碼並自行發表。"
 
 #. uproot-dialog:to-internet-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Instantly publish your remix to a URL that anyone can view."
-msgstr ""
-"Publiceer uw combinatie rechtstreeks naar een URL die iedereen kan bekijken."
+msgstr "立即將你的混搭發佈為一個 URL 使每個人都可以看到。"
 
+# 94%
 #. command-manager:cannot-undo-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Nothing left to undo!</span>"
-msgstr "<span>Niets meer ongedaan te maken!</span>"
+msgstr "<span>沒東西可以重做了！</span>"
 
 #. command-manager:redid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Redid"
-msgstr "Opnieuw gedaan"
+msgstr "重做"
 
 #. command-manager:executed
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Executed"
-msgstr "Uitgevoerd"
+msgstr "已執行"
 
 #. command-manager:cannot-redo-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Nothing left to redo!</span>"
-msgstr "<span>Niets meer opnieuw te doen!</span>"
+msgstr "<span>沒東西可以重做了！</span>"
 
 #. command-manager:undid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Undid"
-msgstr "Ongedaan gemaakt"
+msgstr "還原"
 
 #. key-names:RIGHT
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -203,130 +195,126 @@ msgstr "backspace"
 #. command-descriptions:quit
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Deactivate goggles"
-msgstr "Bril deactiveren"
+msgstr "停用 goggles"
 
 #. command-descriptions:remix
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Replace/remix selected element"
-msgstr "Geselecteerde element vervangen/remixen"
+msgstr "更換/混合選定的元素"
 
 #. command-descriptions:help
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "This help reference"
-msgstr "Deze hulpbron"
+msgstr "這是教學"
 
 #. command-descriptions:css-quasimode
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "View/edit computed style of selected element"
-msgstr "Berekende stijl van geselecteerde element bekijken/bewerken"
+msgstr "觀看 / 編輯計算所以選的元素風格"
 
 #. command-descriptions:undo
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Undo"
-msgstr "Ongedaan maken"
+msgstr "復原"
 
 #. command-descriptions:dom-descend
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Descend to child element"
-msgstr "Omlaag naar onderliggend element"
+msgstr "下降到子元素"
 
 #. command-descriptions:remove
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Remove selected element"
-msgstr "Geselecteerde element verwijderen"
+msgstr "刪除選定的元素"
 
 #. command-descriptions:uproot
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publish your remix"
-msgstr "Uw remix publiceren"
+msgstr "發布您的混搭"
 
 #. command-descriptions:dom-ascend
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Ascend to parent element"
-msgstr "Omhoog naar bovenliggend element"
+msgstr "提升到父元素"
 
 #. command-descriptions:redo
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Redo"
-msgstr "Opnieuw doen"
+msgstr "復原"
 
 #. dialog-common:close
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Close"
-msgstr "Sluiten"
+msgstr "關閉"
 
 #. dialog-common:nevermind
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Nevermind"
-msgstr "Maakt niet uit"
+msgstr "沒關係"
 
 #. dialog-common:ok
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Commit changes"
-msgstr "Wijzigingen vastleggen"
+msgstr "確認修改"
 
 #. dialog-common:product-name
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "X-Ray Goggles"
-msgstr "Röntgenbril"
+msgstr "X-Ray Goggles"
 
 #. input:unload-blocked
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "You have made unsaved changes to this page."
-msgstr "U hebt niet-opgeslagen wijzigingen aan deze pagina aangebracht."
+msgstr "您在此頁面還有未更動的修改。"
 
 #. input:link-click-blocked
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid ""
 "If you would like to follow that link, please deactivate the goggles "
 "first by pressing ESC."
-msgstr ""
-"Als u die koppeling wilt volgen, deactiveer dan eerst de bril door op ESC te "
-"drukken."
+msgstr "如果你想要跟著那個鏈結，請先按 ESC 關閉 goggles。"
 
 #. hud-overlay:and
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "and"
-msgstr "en"
+msgstr "與"
 
 #. hud-overlay:pointing-at
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "pointing at"
-msgstr "dat wijst naar"
+msgstr "指在"
 
 #. hud-overlay:focused-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "You are on a"
-msgstr "U staat op een"
+msgstr "您正位於"
 
 #. hud-overlay:id
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "id"
 msgstr "id"
 
-# context bekijken
 #. hud-overlay:ancestor-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "It is inside a"
-msgstr "Het bevindt zich binnen een"
+msgstr "這是在一個的裏面"
 
 #. hud-overlay:element
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "element"
-msgstr "-element"
+msgstr "元素"
 
 #. hud-overlay:default-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Web X-Ray Goggles activated! Press ESC to deactivate.</span>"
-msgstr "<span>Webröntgenbril geactiveerd! Druk op ESC om te deactiveren.</span>"
+msgstr "<span>Web X-Ray Goggles 激活成功！按 ESC 關閉。</span>"
 
 #. hud-overlay:with
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "with"
-msgstr "met"
+msgstr "和"
 
-# Gewoon class laten, is een term uit CSS
 #. hud-overlay:class
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "class"
-msgstr "class"
+msgstr "類別"

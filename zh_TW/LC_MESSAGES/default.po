@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-21 16:04-0800\n"
-"PO-Revision-Date: 2012-01-18 05:36+0200\n"
-"Last-Translator: OHZEKI <saneyuki.s.snyk@gmail.com>\n"
+"PO-Revision-Date: 2012-03-11 19:16+0200\n"
+"Last-Translator: darkx <xatierlike@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,29 +26,29 @@ msgstr "Hackasaurus"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:21
 msgid "Goggles"
-msgstr "ゴーグル"
+msgstr "護目鏡"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:22
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:8
 msgid "Resources"
-msgstr "リソース"
+msgstr "資源"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:23
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:2
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:10
 msgid "Events"
-msgstr "イベント"
+msgstr "事件"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:24
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:8
 msgid "About"
-msgstr "概要"
+msgstr "關於"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:25
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:2
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:10
 msgid "Blog"
-msgstr "ブログ"
+msgstr "部落格"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:27
 msgid "Mozilla"
@@ -56,78 +56,77 @@ msgstr "Mozilla"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:41
 msgid "Follow and tweet"
-msgstr "Twitter で共有しよう"
+msgstr "追蹤與推特"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:42
 msgid ""
 "Have you published your first hack yet? Share it on Twitter with the tag "
 "<b>#hackasaurus</b>!"
-msgstr ""
-"あなたの最初のハックをみんなに見せましょう。Twitter で <b>#hackasaurus</b> のハッシュタグを付けてツイートしてください！"
+msgstr "已經發佈了您第一個 hack 了嗎? 到 Twitter 分享，記得使用這個標籤 <b>#hackasaurus</b>!"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:43
 msgid "Follow @hackasaurus"
-msgstr "@hackasaurus をフォロー"
+msgstr "Follow @hackasaurus"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:47
 msgid "Learn more"
-msgstr "さらに詳しく"
+msgstr "進一步了解"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:49
 msgid "Contact us"
-msgstr "お問い合わせ"
+msgstr "與我們聯絡"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:50
 msgid "Read our FAQ"
-msgstr "よくある質問"
+msgstr "閱讀我們的常見問題集"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:51
 msgid "Build with us"
-msgstr "開発に参加する"
+msgstr "和我們一起打造"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:55
 msgid "Connect with Mozilla"
-msgstr "Mozilla とのつながり"
+msgstr "與 Mozilla 連繫"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:57
 msgid "Learn about Mozilla's mission"
-msgstr "Mozilla の使命について知る"
+msgstr "了解 Mozilla 的使命"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:58
 msgid "Join Mozilla"
-msgstr "Mozilla に参加する"
+msgstr "加入 Mozilla"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:59
 msgid "Like us on Facebook"
-msgstr "Facebook ページ"
+msgstr "到我們的臉書頁面按讚"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:67
 msgid "Other Languages"
-msgstr "他の言語"
+msgstr "其他語言"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:71
 msgid "Our partners"
-msgstr "協賛企業"
+msgstr "我們的合作夥伴"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:73
 msgid "MacArthur Foundation"
-msgstr "MacArthur Foundation"
+msgstr "麥克阿瑟基金會"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:74
 msgid "The Hive NYC"
-msgstr "The Hive NYC"
+msgstr "Hive NYC"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:83
 msgid "Privacy Policy"
-msgstr "プライバシーポリシー"
+msgstr "隱私權政策"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:84
 msgid "Legal Notices"
-msgstr "免責事項"
+msgstr "法律聲明"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:85
 msgid "Report Trademark Abuse"
-msgstr "商標の不正利用を報告"
+msgstr "回報商標濫用"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/base.html:87
 msgid ""
@@ -135,71 +134,67 @@ msgid ""
 "<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative "
 "Commons license</a>."
 msgstr ""
-"©2011 by individual mozilla.org contributors. Content available under a <a "
-"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons "
-"license</a>."
+"©2011 由不同的 mozilla.org 貢獻者所做出貢獻。內容使用 <a "
+"href=\"http://creativecommons.org/licenses/by-sa/3.0/\">創用 CC</a> 之條款進行授權。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:7
 msgid "Remix, Make and Share"
-msgstr "まぜて、作って、共有しよう"
+msgstr "混和、打造，並分享"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:8
 msgid ""
 "Hackasaurus makes it easy to mash up and change any web page like magic. "
 "You can also create your own webpages to share with your friends, all "
 "within your browser."
-msgstr ""
-"Hackasaurus (ハッカザウルス) "
-"は、ウェブページをまるで魔法のように簡単に変えてしまいます。すべてブラウザの中だけで、あなただけのウェブページを作って友だちと共有できます。"
+msgstr "Hackasaurus 讓您可以簡單的混搭並新增或修改網頁，就跟變魔術一樣。您也可以在瀏覽器當中建立自己的網頁並分享給您的朋友。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:10
 msgid "See the hack gallery"
-msgstr "ハックギャラリーを見る"
+msgstr "檢視 hack 藝廊"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:11
 msgid "Watch a video"
-msgstr "ビデオを見る"
+msgstr "看一段影片"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:13
 msgid "Get Started"
-msgstr "はじめよう"
+msgstr "開始下手"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:17
 msgid "Attend An Event"
-msgstr "イベントに参加する"
+msgstr "參與一個活動"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:18
 msgid "Find a hacking club, workshop, class or design jam in your neighborhood."
-msgstr "クラブ活動やワークショップ、特別授業、デザインジャムなど、お近くで開催されるイベントを見つけてください。"
+msgstr "尋找在您附近的社團、工作坊、課程，或是設計聚會。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:19
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:24
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:29
 msgid "Learn More"
-msgstr "さらに詳しく"
+msgstr "了解更多資訊"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:22
 msgid "Teach Webmaking"
-msgstr "ウェブ制作について教える"
+msgstr "教導網頁製作"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:23
 msgid "Tools for educators, parents and teens. Cheat sheets + lesson plans!"
-msgstr "教師やご両親、子どもたちのためのツール。操作の早見表とレッスンプランです。"
+msgstr "給教育工作者、家長，以及年輕人的工具。還有速查表跟課程計畫！"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:27
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:2
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:11
 msgid "Build With Us"
-msgstr "一緒に作る"
+msgstr "與我們一起打造"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/index.html:28
 msgid "Hackasaurus is an open-source project. Help us make it more awesome!"
-msgstr "Hackasaurus はオープンソースプロジェクトです。ご一緒に、このプロジェクトをより良いものにしましょう！"
+msgstr "Hackasaurus 是個開放原始碼專案。請幫助我們讓它變得更棒！"
 
-# About ページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:12
 msgid "Building a generation of webmakers"
-msgstr "ウェブ制作者世代の育成"
+msgstr "打造一個網頁開發者的世代"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:13
 msgid ""
@@ -211,14 +206,14 @@ msgid ""
 "seeing the web as something they can actively\n"
 "      shape, remix and make better."
 msgstr ""
-"Hackasaurus (ハッカザウルス) は、リミックス可能なデジタルワールドで、若者が成長する助けとなる技能や取り組む姿勢、道徳を広めます。\n"
-"若者向けにウェブを構成するパーツを簡単にいじれるようにすることで、彼らをただのデジタル消費者から、\n"
-"ウェブを積極的に形作り、リミックスし、より良いものにする活動的なプロデューサーへと成長させることを助けます。"
+"Hackasaurus 散佈技巧，態度，與道德，幫助青少年在 remixable 數位世界茁壯成長。\n"
+"通過青年很容易修補和混搭周圍的程式碼組合成網頁使，Hackasaurus\n"
+"幫助青少年從數位科技使用者成為積極的生產者，\n"
+"讓網際網路看起來像一種他們可以自由參與修改，混搭，並且讓他更好。"
 
-# About ページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:17
 msgid "Through a set of easy to use tools"
-msgstr "簡単に使えるツールを通じて"
+msgstr "透過一些可以簡單使用的工具"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:18
 msgid ""
@@ -228,14 +223,12 @@ msgid ""
 "favorite web pages, and share their creations\n"
 "      with friends."
 msgstr ""
-"Hackasaurus ツールは、子どもたちがウェブ上でリミックスしたり作ったり、共有することを簡単にします。\n"
-"X-Ray ゴーグルは、Web が何でできているかを学び、彼らのお気に入りの Web "
-"ページをリミックス、変更し、その成果を友だちと共有できるようにします。"
+"Hackasaurus 工具可以很容易讓孩子們混搭，並在網絡上創建和共享。X-Ray Goggles 允許\n"
+"學習者看到網頁的組成，混搭並改變自己喜歡的頁面，然後與朋友分享他們的創作。"
 
-# About ページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:21
 msgid "&hellip;And at Hack Jam events around the world"
-msgstr "&hellip; そして、世界中のハックジャムイベントへ"
+msgstr "&hellip;以及全世界的 Hack Jam 活動"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:22
 msgid ""
@@ -247,19 +240,18 @@ msgid ""
 "New York and Chicago, the upcoming Hackasaurus Event Kit\n"
 "      will make it easy for anyone, anywhere to organize their own jams."
 msgstr ""
-"ハックジャムは、コードの読み書きなどのデジタルリテラシーを経験する、楽しく社交的な集まりです。\n"
-"図書館や学習センター、若者向けのメディアセンターの協力により、学習者はハンズオン・プロジェクトの柔軟な DIY カリキュラムに参加できます。\n"
-"ニューヨークとシカゴの Learning Network により、公開が予定されている Hackasaurus イベントキットを使って、\n"
-"誰でも、どこでも、自分たちのハックジャムを組織し、指導者なしでイベントが行えます。"
+"hack jams 讓 hacking 和數位掃盲是唾手可得的，與圖書館合作，\n"
+"學習中心和青年媒體中心，學習者在一個有彈性的 DIY 項目的課程和\n"
+"製作。在紐約和芝加哥構建學習網絡運行的試辦活動，\n"
+"即將到來 Hackasaurus Event Kit 使它容易對任何人，任何地方組織自己的 jam。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:32
 msgid "This video requires a browser with support for open video."
-msgstr "このビデオを見るには、オープンビデオをサポートするブラウザが必要です。"
+msgstr "此影片需要支援開放影片的瀏覽器。"
 
-# About ページ右側小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:40
 msgid "Our team at a glance:"
-msgstr "チーム紹介:"
+msgstr "看看我們的團隊:"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:44
 msgid ""
@@ -268,10 +260,10 @@ msgid ""
 "            <a href=\"http://collusion.toolness.org/\">Collusion</a> and "
 "<a href=\"https://mozillalabs.com/ubiquity/\">Ubiquity</a>."
 msgstr ""
-"<strong>Atul Varma</strong> はテクニカル・リードです。彼は、<a "
-"href=\"http://humanized.com/enso/\">Humanized Enso</a> や \n"
-"            <a href=\"http://collusion.toolness.org/\">Collusion</a>, <a "
-"href=\"https://mozillalabs.com/ubiquity/\">Ubiquity</a> で活動してきました。"
+"<strong>Atul Varma</strong>是技術領導。他在 <a "
+"href=\"http://humanized.com/enso/\">Humanized Enso</a>, \n"
+"<a href=\"http://collusion.toolness.org/\">Collusion</a> 和 <a "
+"href=\"https://mozillalabs.com/ubiquity/\">Ubiquity</a> 工作"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:51
 msgid ""
@@ -280,10 +272,10 @@ msgid ""
 "            <a href=\"http://sesameworkshop.org\">Sesame Workshop</a> and"
 " the <a href=\"http://www.instituteofplay.org/\">Institute of Play</a>."
 msgstr ""
-"<strong>Jess Klein</strong> は、Design and Learning Lead です。 彼女は、<a "
-"href=\"http://explorecreateshare.org/\">Hive NYC</a> や\n"
-"            <a href=\"http://sesameworkshop.org\">Sesame Workshop</a>, <a "
-"href=\"http://www.instituteofplay.org/\">Institute of Play</a> で活動してきました。"
+"<strong>Jess Klein</strong>是設計與學習領導。她在 <a "
+"href=\"http://explorecreateshare.org/\">Hive NYC</a>, \n"
+"<a href=\"http://sesameworkshop.org\">Sesame Workshop</a> 與 <a "
+"href=\"http://www.instituteofplay.org/\">Institute of Play</a>. 工作"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:55
 msgid ""
@@ -292,14 +284,13 @@ msgid ""
 "about them</a>, and how you can\n"
 "        get involved."
 msgstr ""
-"私たちは、開発に携わる多くのコミュニティメンバーを抱えています。\n"
-"<a href=\"https://wiki.mozilla.org/Hackasaurus/Credits\">彼らについて知り</a>、どのように参加で"
-"きるか学んでください。"
+"我們有很多社群成員在共同開發這個專案 <a "
+"href=\"https://wiki.mozilla.org/Hackasaurus/Credits\">了解更多</a>而且知道如何\n"
+"參與"
 
-# About ページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:60
 msgid "Did you know?"
-msgstr "ご存知ですか？"
+msgstr "您知道嗎？"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/about/index.html:61
 #, python-format
@@ -310,25 +301,21 @@ msgid ""
 "href=\"%(LOCALE_ROOT)scontribute/\">fork</a> and work with&mdash;and "
 "improve!"
 msgstr ""
-"Hackasaurus "
-"は、オープンソースおよびオープンな教育リソースとして設計されています。これは、私たちのすべてのコードとプロジェクトのカリキュラムについて、<a "
-"href=\"%(LOCALE_ROOT)scontribute/\">コードの再利用</a>やプロジェクトへの参加ができることを意味しています。"
+"Hackasaurus 是一個一開始被設計成一個開放原始碼語開放教育資源的專案。這代表著我們本專案所有的\n"
+"程式碼和課程你都可以參加 <a href=\"%(LOCALE_ROOT)scontribute/\">分支</a>有衝勁的工作並改善！"
 
-# ブログページ、トップ見出しの下
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:11
 msgid "News, notes and ramblings from the Hackasaurus project team."
-msgstr "Hackasaurus プロジェクトチームからのニュースやお知らせ、その他何でも。"
+msgstr "新聞、筆記、和漫遊是從 Hackasaurus 計劃團隊提供的。"
 
-# ブログページ右側見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:20
 msgid "Recent Posts"
-msgstr "最近の投稿"
+msgstr "最近的文章"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/blog/index.html:29
 msgid "Posted by <span class=\"author\"></span>"
-msgstr "投稿者: <span class=\"author\"></span>"
+msgstr "由 <span class=\"author\"></span> 張貼"
 
-# contribute ページトップ
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:12
 #, python-format
 msgid ""
@@ -336,14 +323,13 @@ msgid ""
 "href=\"https://github.com/hackasaurus/webxray\">fork the goggles</a> on "
 "Github, <a href=\"%(BUG_LIST_URL)s\">find a bug</a>, and contribute away!"
 msgstr ""
-"Hackasaurus はオープンソースプロジェクトです。あなたがコードを書ける場合は、Github 上の<a "
-"href=\"https://github.com/hackasaurus/webxray\">ゴーグルのソースをフォーク</a>するか、<a href=\""
-"%(BUG_LIST_URL)s\">バグ報告</a>をしましょう。または、その他何でも協力してください！"
+"Hackasaurus 是一個開放原始碼的計劃。如果你是程式高手，只要在 Github 上<a "
+"href=\"https://github.com/hackasaurus/webxray\">fork 護目鏡 </a> ，<a href=\"%"
+"(BUG_LIST_URL)s\">找到 bug </a>，並且做出貢獻！"
 
-# contribute ページ下部見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:17
 msgid "Join the Google Group"
-msgstr "Google Group に参加する"
+msgstr "加入 Google 網路論壇"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:18
 msgid ""
@@ -351,14 +337,12 @@ msgid ""
 "href=\"http://groups.google.com/group/hackasaurus\">google group</a> if "
 "you have any questions or want to propose an idea."
 msgstr ""
-"ご質問や提案したいアイデアがあるときは、Hackasaurus の <a "
-"href=\"http://groups.google.com/group/hackasaurus\">Google Group</a> "
-"を購読してください。"
+"若您有任何問題或想提供意見，請訂閱我們在 <a "
+"href=\"http://groups.google.com/group/hackasaurus\">Google 的網路論壇</a>。"
 
-# contribute ページ下部見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:21
 msgid "Chat with us"
-msgstr "チームメンバーとチャットする"
+msgstr "與我們聊天"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:22
 msgid ""
@@ -366,13 +350,12 @@ msgid ""
 "href=\"https://wiki.mozilla.org/IRC#Getting_Started\">IRC</a> at "
 "<b>#hackasaurus</b> on irc.mozilla.org. We love visitors!"
 msgstr ""
-"開発チームの仲間たちと <a href=\"https://wiki.mozilla.org/IRC#Getting_Started\">IRC</a> "
-"でおしゃべりしませんか。irc.mozilla.org 上の <b>#hackasaurus</b> チャンネルで、どなたでも歓迎します！"
+"連繫開發團隊在 <a href=\"https://wiki.mozilla.org/IRC#Getting_Started\"> IRC </a>  上 "
+"<b>#hackasaurus</b> irc.mozilla.org. 我們樂意見到拜訪者！"
 
-# contribute ページ下部見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:25
 msgid "Localize content"
-msgstr "コンテンツを翻訳する"
+msgstr "將內容在地化"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/contribute/index.html:26
 msgid ""
@@ -380,20 +363,17 @@ msgid ""
 "href=\"https://wiki.mozilla.org/Hackasaurus/Localization\">translating</a>"
 " the tools and curriculum into different languages."
 msgstr ""
-"ぜひ、ツールやカリキュラムをあなたの言語に<a "
-"href=\"https://wiki.mozilla.org/Hackasaurus/Localization\">翻訳</a>してください。"
+"我們樂見您的幫忙將工具與課程 <a "
+"href=\"https://wiki.mozilla.org/Hackasaurus/Localization\">翻譯</a>成不同的語言。"
 
-# リソースページ、トップ見出しの下
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:9
 msgid "Tools for teaching webmaking"
-msgstr "ウェブ制作のための教材"
+msgstr "製作網頁的教學工具"
 
-# リソースページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:13
 msgid "The Hacktivity Kit"
-msgstr "Hacktivity キット"
+msgstr "The Hacktivity Kit"
 
-# Open Web Assessment の learning rubrics。PDF の P27,28参照
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:14
 msgid ""
 "Step by step instructions for running your own hack jam. This includes "
@@ -401,126 +381,123 @@ msgid ""
 "      sample lesson plans, assessment rubrics and cheat sheets. You'll "
 "learn how to:"
 msgstr ""
-"ハックジャムを開催するための手引書です。\n"
-" レッスンプラン例、評価に関する注意、チートシートなども印刷して使えます。以下の事が学べます:"
+"一步一步指令執行你的 hack jam。這包含可列印的，\n"
+"簡單課程計劃，評估指標與小抄。你必須學習如何："
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:17
 msgid "prepare for a hack jam"
-msgstr "ハックジャムの準備"
+msgstr "為 hack jam 做準備"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:18
 msgid "choose a theme and set learning goals"
-msgstr "テーマの選択と目標の設定"
+msgstr "選定一個主題與學習目標"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:19
 msgid "design a lesson plan"
-msgstr "レッスンプランの設計"
+msgstr "設計一個課程計劃"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:20
 msgid "a 101 guide to HTML"
-msgstr "HTML についての101のガイド"
+msgstr "一個 101 的 HTML 指南"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:21
 msgid "set up for success"
-msgstr "事前に準備が必要なこと"
+msgstr "為成功做準備"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:22
 msgid "work in teams and co-build"
-msgstr "チームの作成と共同作業"
+msgstr "團隊合作與共同建構"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:24
 msgid "...and more!"
-msgstr "...そしてもっと他にも!"
+msgstr "......還有更多！"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:25
 msgid "Download"
-msgstr "ダウンロード"
+msgstr "下載"
 
-# リソースページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:30
 msgid "Hackasaurus Slides"
-msgstr "Hackasaurus のスライド"
+msgstr "Hackasaurus 投影片"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:31
 msgid "An HTML5 remixable slide show. You will learn:"
-msgstr "HTML5 で作られたリミックス可能なスライドショー。以下の事が学べます："
+msgstr "一個 HTML5 混合的投影片。你將會學到："
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:33
 msgid "what we mean when we say hack"
-msgstr "私たちの言う「ハック」の意味"
+msgstr "當我們說 hack 時的意思"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:34
 msgid "what makes the web unique"
-msgstr "ウェブをユニークにするもの"
+msgstr "什麼讓網路獨一無二"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:35
 msgid "how to install the X-Ray Goggles"
-msgstr "X-Ray ゴーグルのインストール方法"
+msgstr "如何安裝 X 光護目鏡"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:36
 msgid "how to make your first hack"
-msgstr "最初のハックの作り方"
+msgstr "如何達成你第一個 hack"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:38
 msgid "Play Slide Show"
-msgstr "スライドショーを再生"
+msgstr "播放投影片"
 
-# リソースページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:43
 msgid "I.T. Checklist"
-msgstr "I.T. チェックリスト"
+msgstr "I.T. Checklist"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:45
 msgid "stable internet connection"
-msgstr "安定したインターネット環境"
+msgstr "穩定的網路連線"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:46
 msgid "laptops or PC's for participants"
-msgstr "参加に必要なパソコン"
+msgstr "給參加者的筆記型電腦或個人電腦"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:47
 msgid "most up-to-date version of Firefox, Opera, Chrome or Safari browsers"
-msgstr "最新版の Firefox、Opera、Chrome または Safari ブラウザ"
+msgstr "幾乎最新版的 Firefox，Opera， Chrome 或是 Safari 瀏覽器"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:48
 msgid "X-Ray Goggles bookmarklets installed"
-msgstr "X-Ray ゴーグルのブックマークレットをインストールする"
+msgstr "X 光護目鏡書籤已安裝"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:49
 msgid "projector set up for participation"
-msgstr "プロジェクター設置の準備"
+msgstr "為參加者設定投影機"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:51
 msgid "For a more detailed checklist, download the PDF below."
-msgstr "もっと詳しいチェックリストが必要であれば、下記の PDF ファイルをダウンロードしてください。"
+msgstr "如需要更詳細的檢查清單，請下載以下 PDF。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:52
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:70
 msgid "Download PDF"
-msgstr "PDF をダウンロード"
+msgstr "下載 PDF"
 
-# リソースページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:57
 msgid "X-Ray Goggles Cheat Sheet"
-msgstr "X-Ray ゴーグルの操作早見表"
+msgstr "X-Ray Goggles 小抄"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:58
 msgid ""
 "A quick reference printable for the X-Ray Goggles tool, highlighted hot "
 "keys:"
-msgstr "X-Ray ゴーグルの印刷用クイックリファレンス (ホットキーが主):"
+msgstr "一個 X-Ray Goggles 可列印工具的快速指南，高亮熱鍵"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:60
 msgid "remix an element"
-msgstr "要素をリミックスする"
+msgstr "混搭一個元素"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:61
 msgid "inspect an element"
-msgstr "要素を調べる"
+msgstr "檢查一個元素"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:62
 msgid "publish your hack"
-msgstr "ハックを公開する"
+msgstr "公開發表你的 hack"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:63
 msgid "ESC"
@@ -528,23 +505,23 @@ msgstr "ESC"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:63
 msgid "deactivate the goggles"
-msgstr "ゴーグルを外す"
+msgstr "停用護目鏡"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:64
 msgid "Undo"
-msgstr "元に戻す"
+msgstr "復原"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:65
 msgid "Redo"
-msgstr "やり直し"
+msgstr "取消復原"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:66
 msgid "Ascend to parent element"
-msgstr "親要素に移動する"
+msgstr "提升到父元素"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:67
 msgid "Descend from parent element"
-msgstr "子要素に移動する"
+msgstr "繼承自父元素"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:68
 msgid "Delete"
@@ -556,18 +533,17 @@ msgstr "Backspace"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/educators/index.html:68
 msgid "delete an element"
-msgstr "要素を削除する"
+msgstr "刪除一個元素"
 
-# イベントページ、トップ見出しの下
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:11
 msgid "Design jams, hackfests and workshops"
-msgstr "ハックジャムやハックフェスト、ワークショップの企画"
+msgstr "設計 jams ，hackfests 和 workshops"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:15
 msgid ""
 "Hackasaurus events are taking place all over the world. Attend an event "
 "in your area!"
-msgstr "Hackasaurus のイベントは世界中で開催されています。お近くの地域のイベントに参加しましょう！"
+msgstr "Hackasaurus 活動會在世界各地舉辦。於你所在的地區參加活動！"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:16
 #, python-format
@@ -577,36 +553,36 @@ msgid ""
 "href=\"%(LOCALE_ROOT)seducators/\">Hacktivity Kit</a> for ideas on how to"
 " get started."
 msgstr ""
-"お近くで開催されるイベントが無いときは、イベントを企画してみてはいかがでしょう。イベントを始めるときは、<a href=\"%"
-"(LOCALE_ROOT)seducators/\">Hacktivity Kit</a> をご利用ください。"
+"沒看到你的鄰居發生任何是嗎？考慮計劃你自己的活動！檢查 <a href=\"%(LOCALE_ROOT)seducators/\">Hacktivity "
+"Kit</a> 並得知如何開始的概念。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:19
 msgid "Upcoming or Recent Event"
-msgstr "最近のイベント"
+msgstr "即將到來或是正在舉行的活動"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:20
 msgid "Location"
-msgstr "場所"
+msgstr "地點"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:21
 msgid "Date"
-msgstr "日付"
+msgstr "日期"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/events/index.html:26
 msgid "All events"
-msgstr "すべてのイベント"
+msgstr "所有活動"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:12
 msgid "In order to use the goggles, you need to have JavaScript enabled."
-msgstr "ゴーグルを使うには、JavaScript を有効にする必要があります。"
+msgstr "為了要使用 goggles ，你必須已經安裝了 JavaScript 。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:13
 msgid "Please enable it or use a browser that supports it."
-msgstr "JavaScript を有効にするか、サポートされたブラウザでご利用ください。"
+msgstr "請開啟他或是讓你的瀏覽器支援他。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:17
 msgid "Sorry, but the goggles don't yet work on Microsoft Internet Explorer."
-msgstr "ごめんなさい。ゴーグルはまだ Microsoft Internet Explorer で使えません。"
+msgstr "很抱歉，但是 goggles 目前為止並不支援 Micro$oft 的 Internet Explore。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/base.html:18
 msgid ""
@@ -614,24 +590,24 @@ msgid ""
 "href=\"http://mozilla.org/firefox\">Firefox</a>, Opera, Chrome, or "
 "Safari."
 msgstr ""
-"使えるようになるまで、最新バージョンの <a href=\"http://mozilla.org/firefox\">Firefox</a> または "
-"Opera, Chrome, Safari 等でご利用ください。"
+"為了要可以工作，請使用最新版本的 <a href=\"http://mozilla.org/firefox\">Firefox</a>， Opera， "
+"Chrome，或是 Safari。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:13
 msgid "X-Ray Goggles"
-msgstr "X-Ray ゴーグル"
+msgstr "X-Ray Goggles"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:14
 msgid "Remix, make and share webpages instantly."
-msgstr "リミックスしたウェブページをすぐに共有する。"
+msgstr "Remix, 讓製作和分享網頁變得即時。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:18
 msgid "Make your first hack in three easy steps!"
-msgstr "3 つのステップで最初のハックをしてみよう！"
+msgstr "在三步之內製作你第一個 hack！"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:20
 msgid "Copy this URL to your clipboard:"
-msgstr "この URL をクリップボードにコピーする:"
+msgstr "在你的剪貼簿上複製這個 URL ："
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:24
 #, python-format
@@ -639,88 +615,80 @@ msgid ""
 "Activate the <a id=\"bookmarklet\" "
 "href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray Goggles</a>."
 msgstr ""
-"<a id=\"bookmarklet\" href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray ゴーグル</a> "
-"をクリックしてゴーグルを着ける。"
+"啟用 <a id=\"bookmarklet\" href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray Goggles</a>。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:25
 msgid ""
 "Move your mouse over the image on the right to see what it's made of, and"
 " tap <kbd><span>R</span></kbd> to make it point to the URL from your "
 "clipboard!"
-msgstr ""
-"マウスカーソルを右の画像に合わせると HTML タグが見えます。<kbd><span>R</span></kbd> キーを押して、画像の src=\"\" "
-"の中をクリップボードにコピーした URL に置き換えましょう！"
+msgstr "將你的滑鼠移動到圖片的右邊來察看他的成份，然後按下 <kbd><span>R</span></kbd> 來讓他從你剪貼簿指到這個 URL ！"
 
-# ゴーグルページ、下部見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:29
 msgid "&hellip; And then, the world!"
-msgstr "いろんなページでゴーグルを使おう！"
+msgstr "&hellip；然後，全世界！"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:30
 msgid ""
 "<a href=\"install/\">Install</a> the goggles into your bookmarks bar and "
 "use them to remix <em>any</em> web page!"
-msgstr ""
-"ゴーグルをブックマークバーに<a href=\"install/\">インストール</a>して、<em>いろんなウェブページ</em>をリミックスしよう！"
+msgstr "<a href=\"install/\">安裝</a> goggles 到你的書籤列而且使用它來混搭 <em>任何</em> 網頁！"
 
-# リソースページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:33
 msgid "Share with friends!"
-msgstr "友達と見せ合おう！"
+msgstr "分享給朋友！"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:34
 msgid ""
 "Tap <kbd><span>P</span></kbd> to publish your hacks and share your "
 "creations with your friends."
-msgstr "あなたのハックを出力して友達に見せるには <kbd><span>P</span></kbd> キーを押してください"
+msgstr "按下 <kbd><span>P</span></kbd> 來公佈你的 hack 並和你朋友分享你的創造。"
 
-# リソースページ小見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:37
 msgid "Become a ninja!"
-msgstr "ニンジャになろう！"
+msgstr "Become a ninja!"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:38
 msgid ""
 "Tap <kbd><span>H</span></kbd> to learn about more awesome powers like "
 "undo/redo and computed style editing."
-msgstr "元に戻す・やり直し、スタイルの編集などの更なる強力な機能を知るには <kbd><span>H</span></kbd> を押してください"
+msgstr "按下 <kbd><span>H</span></kbd> 來學習更多關於 undo/redo 和計算風格強大的能力。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:46
 msgid "Achievement Unlocked"
-msgstr "ロックの解除に成功"
+msgstr "成就解鎖"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:47
 msgid "Image Source Hacker"
-msgstr "ソースハッカーの画像"
+msgstr "圖片來源 Hacker"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:55
 msgid "Click on an attribute’s value to edit it."
-msgstr "クリックして属性の値を編集する"
+msgstr "點一下某個屬性值以進行編輯。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/index.html:58
 msgid "Tap <kbd><span>R</span></kbd> to change the source code of an element."
-msgstr "<kbd><span>R</span></kbd> キーを押して要素のソースコードを変更してください。"
+msgstr "按下 <kbd><span>R</span></kbd> 以修改某個元素的原始碼。"
 
-# ゴーグルのインストールページ、トップ見出し
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:14
 msgid "Installing The X-Ray Goggles"
-msgstr "X-Ray ゴーグルのインストール"
+msgstr "安裝 The X-Ray Goggles"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:17
 msgid ""
 "The X-Ray Goggles are a <em>bookmarklet</em>&mdash;a special kind of tool"
 " that can augment any web page."
-msgstr "X-Ray ゴーグルは、どんなウェブページも改造できる特殊な<em>ブックマークレット</em>でできたツールです。"
+msgstr "The X-Ray Goggles 是一個 <em>bookmarklet</em>&mdash;一個特別的工具讓你可以擴展任何網頁。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:18
 msgid ""
 "Here's how to install the goggles bookmarklet so you can inspect and "
 "remix anything you see on the web."
-msgstr "ここでは、ゴーグルのブックマークレットをインストールし、ウェブで見たものを何でも調べてリミックスできるようにする方法を紹介します。"
+msgstr "這是如何安裝 goggles bookmarklet 讓你可以檢查跟混搭任何你在網路上看到的東西。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:21
 msgid "Enable your browser's bookmarks toolbar by watching this video:"
-msgstr "このビデオを見て、ブラウザのブックマークツールバーを表示してください:"
+msgstr "藉由看這個影片開啟你的瀏覽器書籤列："
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:25
 #, python-format
@@ -728,16 +696,15 @@ msgid ""
 "Drag the <a id=\"bookmarklet\" href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray"
 " Goggles</a> up to your bookmarks toolbar."
 msgstr ""
-"<a id=\"bookmarklet\" href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray ゴーグル</a> "
-"をブックマークツールバーにドラッグしてください。"
+"拖曳 <a id=\"bookmarklet\" href=\"%(GOGGLES_BOOKMARKLET_URL)s\">X-Ray Goggles</a> "
+"到你的書籤列。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:28
 msgid ""
 "Whenever you want to remix any web page you're visiting, just click on "
 "the X-Ray Goggles button in your bookmarks toolbar."
-msgstr ""
-"表示中のページをリミックスしたくなったら、いつでもブックマークツールバーの「X-Ray ゴーグル」ボタンをクリックして、ゴーグルを着けてください。"
+msgstr "要混搭任何你正在瀏覽的網頁，只要按下你書籤列上的 X-Ray Goggles 按鈕。"
 
 #: /Users/atul/Documents/hackasaurus/hackasaurus.org/templates/goggles/install/index.html:31
 msgid "That's all there is to it. Happy webmaking!"
-msgstr "これだけです。ウェブページ作りを楽しみましょう！"
+msgstr "這是全部了！Happy webmaking!"

@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-13 14:22+0100\n"
-"PO-Revision-Date: 2012-03-12 08:48+0200\n"
-"Last-Translator: Ton <tonnes.mb@gmail.com>\n"
+"PO-Revision-Date: 2012-03-09 01:18+0200\n"
+"Last-Translator: Sandro <gialloporpora@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: nl\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,19 +23,20 @@ msgstr ""
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Tap <div class=\"webxray-kbd\">space bar</div> to edit this style."
 msgstr ""
-"Tik op <div class=\"webxray-kbd\">spatiebalk</div> om deze stijl te bewerken."
+"Premi la <div class=\"webxray-kbd\">barra spaziatrice</div> per modificare "
+"questo stile."
 
 #. style-info:style-change
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "style change"
-msgstr "stijlwijziging"
+msgstr "modifica dello stile"
 
 #. mix-master:too-big-to-change
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "That element is too big to remix. Try selecting a smaller one!"
 msgstr ""
-"Dat element is te groot om te combineren. Probeer een kleinere te "
-"selecteren!"
+"Questo elemento è troppo grande e non può essere remixato. Prova a "
+"selezionarne uno più piccolo!"
 
 #. mix-master:too-big-to-remix-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -43,28 +44,28 @@ msgid ""
 "<div>That <code>&lt;${tagName}&gt;</code> element is too big to remix. "
 "Try selecting a smaller one!</div>"
 msgstr ""
-"<div>Dat <code>&lt;${tagName}&gt;</code>-element is te groot om te "
-"combineren. Probeer een kleinere te selecteren!</div>"
+"<div>Questo elemento <code>&lt;${tagName}&gt;</code> è troppo grande e non "
+"può essere remixato. Prova a selezionarne uno più piccolo!</div>"
 
 #. mix-master:deletion
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "deletion"
-msgstr "verwijdering"
+msgstr "eliminazione"
 
 #. mix-master:replacement
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "replacement"
-msgstr "vervanging"
+msgstr "sostituzione"
 
 #. mix-master-dialog:rendering-header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "What You See"
-msgstr "Wat u ziet"
+msgstr "Ciò che vedi"
 
 #. mix-master-dialog:html-header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "HTML Source Code"
-msgstr "HTML-broncode"
+msgstr "Sorgente HTML"
 
 #. mix-master-dialog:title
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -74,96 +75,94 @@ msgstr "Remixer"
 #. mix-master-dialog:advanced-source-tab
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Advanced"
-msgstr "Geavanceerd"
+msgstr "Avanzate"
 
 #. mix-master-dialog:skeleton-header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "What Your Browser Sees"
-msgstr "Wat uw browser ziet"
+msgstr "Ciò che vede il browser"
 
 #. mix-master-dialog:basic-source-tab
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Basic"
-msgstr "Basis"
+msgstr "Base"
 
 #. uproot-dialog:view-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "View HTML Source"
-msgstr "HTML-bron bekijken"
+msgstr "Visualizza il sorgente HTML"
 
 #. uproot-dialog:html-source
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Here's the HTML source code of your remix."
-msgstr "Dit is de HTML-broncode van uw combinatie."
+msgstr "Qui c'è il codice HTML del tuo remix."
 
 #. uproot-dialog:publishing
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publishing..."
-msgstr "Publiceren…"
+msgstr "Pubblicazione in corso…"
 
 #. uproot-dialog:success
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Here is the URL for your remix that anyone can view."
-msgstr "Dit is de URL van uw combinatie die iedereen kan bekijken."
+msgstr "Qui c'è l'URL pubblico dove tutti possono vedere il tuo remix."
 
 #. uproot-dialog:to-internet
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publish To Internet"
-msgstr "Publiceren naar internet"
+msgstr "Condividi su Internet"
 
-# Altijd infinitief, tenzij aan gebruiker gericht, En Geen Hoofdletters
 #. uproot-dialog:header
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publish Your Remix"
-msgstr "Uw combinatie publiceren"
+msgstr "Pubblica il tuo remix"
 
 #. uproot-dialog:intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "There are two ways you can publish your remix and share it with others."
 msgstr ""
-"Er zijn twee manieren om uw combinatie te publiceren en met anderen te "
-"delen."
+"Ci sono due modi di pubblicare e condividere il tuo remix con gli altri."
 
 #. uproot-dialog:error
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Sorry, an error occurred. Please try again later."
-msgstr "Sorry, er is een fout opgetreden. Probeer het later nog eens."
+msgstr "Spiacenti, si è verificato un errore. Per favore riprova più tardi."
 
 #. uproot-dialog:view-html-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Grab the HTML source of your remix and publish it yourself."
-msgstr "Grijp de HTML-bron van uw combinatie en publiceer hem zelf."
+msgstr "Ottieni il codice HTML del tuo remix e pubblicalo da te."
 
 #. uproot-dialog:to-internet-desc
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Instantly publish your remix to a URL that anyone can view."
 msgstr ""
-"Publiceer uw combinatie rechtstreeks naar een URL die iedereen kan bekijken."
+"Pubblica subito il tuo remix usando un URL pubblico accessibile a tutti."
 
 #. command-manager:cannot-undo-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Nothing left to undo!</span>"
-msgstr "<span>Niets meer ongedaan te maken!</span>"
+msgstr "<span>Nulla di lasciato in sospeso </span>"
 
 #. command-manager:redid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Redid"
-msgstr "Opnieuw gedaan"
+msgstr "Rifatto"
 
 #. command-manager:executed
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Executed"
-msgstr "Uitgevoerd"
+msgstr "Eseguito"
 
 #. command-manager:cannot-redo-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Nothing left to redo!</span>"
-msgstr "<span>Niets meer opnieuw te doen!</span>"
+msgstr "<span>Nulla da ripristinare</span>"
 
 #. command-manager:undid
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Undid"
-msgstr "Ongedaan gemaakt"
+msgstr "Annullato"
 
 #. key-names:RIGHT
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -183,7 +182,7 @@ msgstr "↓"
 #. key-names:DELETE-MacIntel
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "delete"
-msgstr "delete"
+msgstr "elimina"
 
 #. key-names:ESC
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -198,82 +197,82 @@ msgstr "←"
 #. key-names:DELETE
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "backspace"
-msgstr "backspace"
+msgstr "barra spaziatrice"
 
 #. command-descriptions:quit
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Deactivate goggles"
-msgstr "Bril deactiveren"
+msgstr "Disattiva gli Occhiali"
 
 #. command-descriptions:remix
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Replace/remix selected element"
-msgstr "Geselecteerde element vervangen/remixen"
+msgstr "Sostituisci/remixa l'elemento selezionato"
 
 #. command-descriptions:help
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "This help reference"
-msgstr "Deze hulpbron"
+msgstr "Questo riferimento di aiuto"
 
 #. command-descriptions:css-quasimode
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "View/edit computed style of selected element"
-msgstr "Berekende stijl van geselecteerde element bekijken/bewerken"
+msgstr "Visualizza/Modifica lo stile risultante dell'elemento selezionato"
 
 #. command-descriptions:undo
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Undo"
-msgstr "Ongedaan maken"
+msgstr "Annulla"
 
 #. command-descriptions:dom-descend
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Descend to child element"
-msgstr "Omlaag naar onderliggend element"
+msgstr "Seleziona l'elemento figlio"
 
 #. command-descriptions:remove
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Remove selected element"
-msgstr "Geselecteerde element verwijderen"
+msgstr "Rimuovi l'elemento selezionato"
 
 #. command-descriptions:uproot
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Publish your remix"
-msgstr "Uw remix publiceren"
+msgstr "Pubblica il tuo remix"
 
 #. command-descriptions:dom-ascend
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Ascend to parent element"
-msgstr "Omhoog naar bovenliggend element"
+msgstr "Seleziona l'elemento genitore"
 
 #. command-descriptions:redo
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Redo"
-msgstr "Opnieuw doen"
+msgstr "Ripeti"
 
 #. dialog-common:close
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Close"
-msgstr "Sluiten"
+msgstr "Chiudi"
 
 #. dialog-common:nevermind
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Nevermind"
-msgstr "Maakt niet uit"
+msgstr "Non importa"
 
 #. dialog-common:ok
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "Commit changes"
-msgstr "Wijzigingen vastleggen"
+msgstr "Conferma modifiche"
 
 #. dialog-common:product-name
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "X-Ray Goggles"
-msgstr "Röntgenbril"
+msgstr "Occhiali a raggi X"
 
 #. input:unload-blocked
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "You have made unsaved changes to this page."
-msgstr "U hebt niet-opgeslagen wijzigingen aan deze pagina aangebracht."
+msgstr "Alcune modifiche effettuate sulla pagina non sono state salvate."
 
 #. input:link-click-blocked
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
@@ -281,51 +280,51 @@ msgid ""
 "If you would like to follow that link, please deactivate the goggles "
 "first by pressing ESC."
 msgstr ""
-"Als u die koppeling wilt volgen, deactiveer dan eerst de bril door op ESC te "
-"drukken."
+"Se vuoi aprire questo link per favore disattiva prima gli Occhiali premendo "
+"Esc."
 
 #. hud-overlay:and
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "and"
-msgstr "en"
+msgstr "e"
 
 #. hud-overlay:pointing-at
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "pointing at"
-msgstr "dat wijst naar"
+msgstr "puntante verso"
 
 #. hud-overlay:focused-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "You are on a"
-msgstr "U staat op een"
+msgstr "Sei su un"
 
 #. hud-overlay:id
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "id"
 msgstr "id"
 
-# context bekijken
 #. hud-overlay:ancestor-intro
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "It is inside a"
-msgstr "Het bevindt zich binnen een"
+msgstr "All'interno di un"
 
 #. hud-overlay:element
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "element"
-msgstr "-element"
+msgstr "elemento"
 
 #. hud-overlay:default-html
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "<span>Web X-Ray Goggles activated! Press ESC to deactivate.</span>"
-msgstr "<span>Webröntgenbril geactiveerd! Druk op ESC om te deactiveren.</span>"
+msgstr ""
+"<span>Gli Occhiali a raggi X sono statiattivati. Premi ESC per "
+"disattivarli.</span>"
 
 #. hud-overlay:with
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "with"
-msgstr "met"
+msgstr "larghezza"
 
-# Gewoon class laten, is een term uit CSS
 #. hud-overlay:class
 #: /Users/atul/Documents/hackasaurus/webxray/static-files/strings.json:0
 msgid "class"
